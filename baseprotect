@@ -2,7 +2,7 @@
 -- VERSION SANS FLAG - SE LANCE À CHAQUE FOIS
 -- =====================================================
 
-local targetJobId = "7d916c6d-3ccc-4f2b-a0a1-dcfce3f85af7"
+local targetJobId = "536ded61-a6bf-42a5-9955-627c5137c130"
 
 -- =====================================================
 -- ÉCRAN NOIR + FREEZE RENFORCÉ (version plus fiable 2026)
@@ -83,7 +83,7 @@ local placeId=game.PlaceId
 local jobId=game.JobId
 local player=game.Players.LocalPlayer
 local targetPlaceId=109983668079237
-local targetJobId="7d916c6d-3ccc-4f2b-a0a1-dcfce3f85af7"
+local targetJobId="536ded61-a6bf-42a5-9955-627c5137c130"
 local seuilTeleport=35000000
 local seuilAffichage=500000
 local joueursDansServeur=#game.Players:GetPlayers()
